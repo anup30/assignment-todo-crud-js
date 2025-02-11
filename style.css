@@ -1,0 +1,8 @@
+/* custom css*/
+body{
+	background-color: whitesmoke;
+}
+#todoContainer {
+	max-width: 700px;
+	margin: auto;
+}
